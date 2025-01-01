@@ -29,7 +29,7 @@ A comprehensive backend system for managing colleges, courses, placements, citie
 ```bash
 git clone https://github.com/SUSAJJIT/college-management.git
 cd college-management
-1```
+```
 
 ## Project setup
 
