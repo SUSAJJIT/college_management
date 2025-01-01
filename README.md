@@ -16,9 +16,9 @@ A comprehensive backend system for managing colleges, courses, placements, citie
 
 ## Prerequisites
 
-1. **Node.js** (>= 14.x)
-2. **PostgreSQL** (>= 12.x)
-3. **NestJS CLI** (optional, but recommended)
+1. **Node.js**
+2. **PostgreSQL**
+3. **NestJS CLI**
 
 ---
 
